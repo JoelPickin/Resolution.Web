@@ -1,0 +1,9 @@
+﻿**Initial Setup**
+- Create and configure SQL database
+
+
+- Create an account
+- Login
+- View resolution dashboard 
+- View resolution details
+- Create new resolution
