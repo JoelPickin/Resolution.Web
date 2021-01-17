@@ -3,8 +3,10 @@
 @{
 }
 
-<div>
-    <div>
-
-    </div>
+<div class="card-columns">
+    @foreach (var resolution in Model.Resolutions)
+    {
+        <div class="card-img">@resolution.Icon</div>
+        <div class="card-body">@resolution.Title</div>
+    }
 </div>
